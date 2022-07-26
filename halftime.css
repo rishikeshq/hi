@@ -1,0 +1,91 @@
+.n2{
+ margin-left: 0px;
+ padding: 0;
+}
+#c1
+{
+    font-size: 15px;
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+.mainbar
+{
+    margin-left: 245px;
+    padding-left: 58px;
+    /* background-color:red; */
+}
+.nav-item{
+    padding-left: 33px;
+    margin-left: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    display:flex;
+    justify-content: center;
+}
+#nav{
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-weight: bold;
+    font-style:italic;
+    font-size: 29px;
+    margin-left: 22px;
+}
+.container-fluid{
+    background-color:snow;
+}
+#c2
+{
+margin-top: -8px;
+height: 120px;
+width: 100%;
+
+}
+img
+{
+    height: 761px;
+    background-size: cover;
+    margin-top: 0px;
+    object-fit: cover;
+    width: 100%;
+}
+body
+{
+    height: 2000px;
+    /* background-color: blanchedalmond; */
+}
+.slide{
+    margin-top: -35px;
+}
+
+   .row img{
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+    background-size:cover;
+    /* border: 2 solid black; */
+    background-attachment: fixed;
+   }
+
+.row
+{
+display: flex;
+justify-content: center;
+/* width: 400px; */
+/* margin-left: 15px; */
+padding: 50px;
+}
+.btn{
+    margin: 24px 0px;
+    width: 100px;
+    padding-left: 0px;
+
+}
+
+h3
+{
+    margin-left: 0px;
+}
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
